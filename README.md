@@ -4,7 +4,7 @@ via C++'s template meta-programming along with a [demo use case](./demo.cpp)
 for optimizing storage given a constraint.
 
 Nothing complicated (the algorithm is super straightforward, 
-see [Python version](./exp_search.py), I just though it's cool.
+see [Python version](./exp_search.py), I just thought it's cool).
 
 The implementation can be found in [`ExponentialSearch.h`](./ExponentialSearch.h).
 
